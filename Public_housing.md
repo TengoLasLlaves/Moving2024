@@ -1,6 +1,7 @@
 ## UR賃貸
 状況を考えるとUR賃貸を利用する。
-* [物件検索（関東）](https://www.ur-net.go.jp/chintai/kanto/)
+* [UR物件検索（関東）](https://www.ur-net.go.jp/chintai/kanto/)
+* [UR借り方](https://www.ur-net.go.jp/chintai/rent/)
 
 ### 申込資格
 - 貯蓄基準制度
@@ -10,9 +11,10 @@
 
 ### 必要書類
 #### 本申込時
+ただし、「一時払い制度」を使えば、収入および残高証明は不要
 1. 賃貸住宅入居申込書
 1. 住民票の写し
 1. 残高証明書
 #### 三井住友銀行の残高証明書
-1通あたり880円
+1通あたり880円、発行に１〜２週間かかる
 - [三井住友銀行残高証明書](https://www.smbc.co.jp/kojin/otetsuduki/sonota/zandaka/)
