@@ -1,4 +1,4 @@
-## UR賃貸
+# UR賃貸
 状況を考えるとUR賃貸を利用する。
 * [UR物件検索（関東）](https://www.ur-net.go.jp/chintai/kanto/)
 * [UR借り方](https://www.ur-net.go.jp/chintai/rent/)
@@ -18,3 +18,10 @@
 #### 三井住友銀行の残高証明書
 1通あたり880円、発行に１〜２週間かかる
 - [三井住友銀行残高証明書](https://www.smbc.co.jp/kojin/otetsuduki/sonota/zandaka/)
+
+## 第一候補
+- 物件名：高洲第一団地2-1-1-624号室　
+- 家賃：42,200円　共益費（2,930円）
+- 間取り：1DK
+
+インターネットは光(NTT)、CATV(J:COM)
